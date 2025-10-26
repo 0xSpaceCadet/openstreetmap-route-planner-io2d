@@ -6,6 +6,6 @@
 2. Developed locally using Clion IDE 
 3. Project comiled using Mac contained Clang compiler
 
-
+<img src="https://github.com/udacity/CppND-Route-Planning-Project/blob/master/map.png">
 
 #### - 0xSpaceCadet
