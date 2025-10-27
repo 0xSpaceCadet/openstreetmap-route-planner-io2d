@@ -1,0 +1,6 @@
+# any python or cython file used for scripting wont't be needed
+.python
+.cython
+.py
+.pxy
+.pxd
