@@ -1,4 +1,3 @@
 CPP Attributes
-
 1. Uses functionalities like Ptr and Reference explicitly
 2. Uses OOPS based paradigms as and when needed
