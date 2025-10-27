@@ -1,6 +1,8 @@
-# any python or cython file used for scripting wont't be needed
+# any python file used for scripting wont't be needed
 .python
-.cython
 .py
-.pxy
+
+# any cython file used for scripting wont't be needed
+.pyx
+.pyd
 .pxd
